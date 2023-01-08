@@ -61,3 +61,9 @@ h2.destiation{font-family: Georgia, 'Times New Roman', Times, serif;}
 
 h5, li{font-family: Arial, Helvetica, sans-serif;}
 
+body {
+  background-color: rgb(204, 181, 181);
+  margin: 0px;
+  padding: 30px 20px;
+  border-radius: 15px;
+}
